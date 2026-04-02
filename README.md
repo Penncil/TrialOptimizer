@@ -9,11 +9,13 @@ This repository contains the code for the method described above.
 
 ### 1.1 Software requirements
 - Python: [3.11.0]
-- Required packages:           
+- Required packages:
+    - lifelines==0.30.0          
     - matplotlib==3.8.0                   
     - numpy==1.26.4                     
     - pandas==2.2.3     
-    - pytorch==2.5.1            
+    - pytorch==2.5.1
+    - pymoo==0.6.1.5             
     - scikit-learn==1.2.2            
     - scipy==1.11.4          
     - statsmodels==0.14.0
